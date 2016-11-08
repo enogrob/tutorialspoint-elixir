@@ -16,7 +16,7 @@ This is to grasp rapidly the language and its concepts.
 #### Topics
 ```
 Elixir Tutorial
-[ ] Home
+[x] Home
 [ ] Overview
 [ ] Environment
 [ ] Basic Syntax
